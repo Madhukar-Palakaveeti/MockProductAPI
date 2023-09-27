@@ -1,0 +1,1 @@
+# A webapp containing api for simple CRUD operations for sample products. It comes with some mockdata which is scraped from a Ecommerce site.
